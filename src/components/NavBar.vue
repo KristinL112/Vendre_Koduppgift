@@ -1,5 +1,4 @@
 <!--NAVBAR-->
-
 <!--import av RouterLink, RouterView -->
 <script setup>
   import { RouterLink, RouterView } from 'vue-router'
